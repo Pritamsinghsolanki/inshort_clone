@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pritamsinghsolanki/inshort_clone/static/css/main.5f5d688e.chunk.css",
+    "main.js": "/Pritamsinghsolanki/inshort_clone/static/js/main.db73dd93.chunk.js",
+    "main.js.map": "/Pritamsinghsolanki/inshort_clone/static/js/main.db73dd93.chunk.js.map",
+    "runtime-main.js": "/Pritamsinghsolanki/inshort_clone/static/js/runtime-main.42e1648d.js",
+    "runtime-main.js.map": "/Pritamsinghsolanki/inshort_clone/static/js/runtime-main.42e1648d.js.map",
+    "static/js/2.6cfde402.chunk.js": "/Pritamsinghsolanki/inshort_clone/static/js/2.6cfde402.chunk.js",
+    "static/js/2.6cfde402.chunk.js.map": "/Pritamsinghsolanki/inshort_clone/static/js/2.6cfde402.chunk.js.map",
+    "static/js/3.be724b79.chunk.js": "/Pritamsinghsolanki/inshort_clone/static/js/3.be724b79.chunk.js",
+    "static/js/3.be724b79.chunk.js.map": "/Pritamsinghsolanki/inshort_clone/static/js/3.be724b79.chunk.js.map",
+    "index.html": "/Pritamsinghsolanki/inshort_clone/index.html",
+    "static/css/main.5f5d688e.chunk.css.map": "/Pritamsinghsolanki/inshort_clone/static/css/main.5f5d688e.chunk.css.map",
+    "static/js/2.6cfde402.chunk.js.LICENSE.txt": "/Pritamsinghsolanki/inshort_clone/static/js/2.6cfde402.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42e1648d.js",
+    "static/js/2.6cfde402.chunk.js",
+    "static/css/main.5f5d688e.chunk.css",
+    "static/js/main.db73dd93.chunk.js"
+  ]
+}
